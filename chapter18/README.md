@@ -5,7 +5,7 @@ Code accompanying the GCP section of Chapter 13 in the book 'Data pipelines with
 ## Contents
 
 This code example contains the following files:
-
+```
 ├── Makefile            # Makefile for helping run commands.
 ├── dags
 │   └── gcp.py          # The actual DAG.
@@ -13,6 +13,7 @@ This code example contains the following files:
 ├── README.md           # This file.
 └── scripts
     └── fetch_data.py   # Helper script for fetching data.
+```
 
 ## Usage
 
